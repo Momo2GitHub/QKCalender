@@ -1,0 +1,12 @@
+D:\Minami\Tips\QR Code\QRCode\QRCode\QRCodeSampleApp\obj\Debug\ResolveAssemblyReference.cache
+D:\Minami\Tips\QR Code\QRCode\QRCode\QRCodeSampleApp\bin\Debug\QRCodeSample.exe.config
+D:\Minami\Tips\QR Code\QRCode\QRCode\QRCodeSampleApp\obj\Debug\QRCodeSample.QrCodeSampleApp.resources
+D:\Minami\Tips\QR Code\QRCode\QRCode\QRCodeSampleApp\obj\Debug\QRCodeSample.Properties.Resources.resources
+D:\Minami\Tips\QR Code\QRCode\QRCode\QRCodeSampleApp\obj\Debug\GenerateResource.read.1.tlog
+D:\Minami\Tips\QR Code\QRCode\QRCode\QRCodeSampleApp\obj\Debug\GenerateResource.write.1.tlog
+D:\Minami\Tips\QR Code\QRCode\QRCode\QRCodeSampleApp\bin\Debug\QRCodeSample.exe
+D:\Minami\Tips\QR Code\QRCode\QRCode\QRCodeSampleApp\bin\Debug\QRCodeSample.pdb
+D:\Minami\Tips\QR Code\QRCode\QRCode\QRCodeSampleApp\bin\Debug\ThoughtWorks.QRCode.dll
+D:\Minami\Tips\QR Code\QRCode\QRCode\QRCodeSampleApp\bin\Debug\ThoughtWorks.QRCode.pdb
+D:\Minami\Tips\QR Code\QRCode\QRCode\QRCodeSampleApp\obj\Debug\QRCodeSample.exe
+D:\Minami\Tips\QR Code\QRCode\QRCode\QRCodeSampleApp\obj\Debug\QRCodeSample.pdb
